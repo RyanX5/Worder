@@ -21,7 +21,7 @@ Worder is an engaging word guessing game powered by AI. Challenge your word-solv
 
 ## Screenshots
 
-![Gameplay Screenshot](Link_to_Gameplay_Screenshot_or_GIF)
+To Be Updated
 
 ## Contribution
 
